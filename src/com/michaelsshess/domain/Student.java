@@ -41,9 +41,7 @@ public class Student {
 
 	public double calculateGradePointAverage() {
 		// some complex business logic!
-		// we won't need this method on the course, BUT it is import
-		// to remember that classes aren't just get/set pairs - we expect
-		// business logic in here as well.
+		
 		return 0;
 	}
 	
